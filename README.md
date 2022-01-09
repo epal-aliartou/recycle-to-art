@@ -108,50 +108,81 @@ ___
 
 ΠΕΡΙΓΡΑΦΗ ΥΚΙΚΟΥ
 
-Μηχανικά Μέρη
+**Μηχανικά Μέρη**
+
 Άξονας - Precision Shaft - D8mm x L500mm
+
 Άξονας - Precision Shaft - D8mm x L400mm
+
 Άξονας - Precision Shaft - D3mm x L100mm
+
 Τραπεζοειδής Κοχλίας T8 500mm (Lead 8mm)
+
 Γραμμικό Ρουλεμάν LM8UU 8mm 8x15x24mm Linear Ball Bearing Bush
+
 1 x  Ελατήριο - Spring 5m 
+
 Τροχαλία Aluminum GT2 Timing Pulley - 16T - 5mm Bore
+
 Ρουλεμάν - 624ZZ (4mm Bore, 13mm OD)
+
 Ιμάντας Χρονισμού 1 x 2000mm GT2 belt
+
 Τροχαλία Aluminum GT2 Timing Pulley - 6mm Belt - 20 Tooth - 5mm Bore
+
 Παθητική τροχαλία OpenBuilds Smooth Idler Kit
-Ροδάκι Κύλισης - Mini V Wheel Kit - Black
+
 Ροδάκι Κύλισης-Solid V Wheel Kit - White
+
 Προφίλ Αλουμινιου για Βάση Στήριξης - V-Slot 2020 500mm
+
 Προφίλ Αλουμινιου για Βάση Στήριξη- V-Slot 2040 500mm 
+
 Ποδαράκια Αντικραδασμικά- Anti-vibration Feet for 3D Printers
+
 Ελαστικά Καλυψης Rubber Cap / Foot (Rubber only)
+
 Κυλιόμενες Βίδες για Προφίλ Αλουμινιου-  Tee Nut 2020 - Sliding M5
-Ηλεκτρικά Μέρη
-Σερβοκινητήρας- Servo Micro 2.2kg.cm Plastic Gears 
+
+**Ηλεκτρικά Μέρη**
+
+Σερβοκινητήρας- Servo Micro 2.2kg.cm Plastic Gears
+ 
 Βηματικός Κινητήρας Nema 17 Stepper Motors
+
 Καλώδια για Βηματικό Κινητήρα - JST PH Jumper 4 Wire Assembly - 20cm
+
 Κεντική Μονάδα Επεξεργασίας-Raspberry Pi 4 Model B 4GB Low budget Kit
+
 Ελεγκτής Σχεδιαστή - Arduino Uno
+
 Πλακέτα Επέκτασης για Arduino - CNC Shield
+
 Οδηγός Βηματικού Κινητήρα A4988 Stepper driver with heatsink
+
 6 x Jumpers
+
  1 x Τροφοδοτικό (Power Supply) 12V 2A 
-Υλκά 3D Εκτύπωσης
-3D Printer Filament Devil - PLA 1.75mm Hot Red 1kg
-Παξιμάδια για βίδες
+
+**Υλκά 3D Εκτύπωσης**
+3D Printer Filament Devil - PLA 1.75mm  1kg
+
+**Παξιμάδια για βίδες**
 7 x M3-0.5
 5 x M4-0.7
 4 x 5/16in-18
-Βίδες
+
+**Βίδες**
 13 x Phillips M3-0.5 x 16mm
 4 x Phillips M3-0.5 x 6mm
 5 x Phillips M4-0.7x 35mm
 1 x Hex M3-0.5 x 20mm
-Ροδέλες
+
+**Ροδέλες**
 4 x 5/16in washer
 4 x M3 washers
-Ξυλεία
+
+**Ξυλεία**
 Κοντρα πλακέ 80 Χ 80
 
 
