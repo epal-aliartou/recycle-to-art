@@ -191,6 +191,10 @@ ___
 ![κόστος και τα υλικά](images/Recycle-to-Art-KOSTOS1_01.jpg)
 
 
+και μπορεί να βρεθει στο παρακάτω αρχείο 	
+
+[Αναλυτικά Υλικά και κόστος Συστήματος](https://github.com/epal-aliartou/recycle-to-art/blob/main/docs/Recycle-to-Art-KOSTOS1.pdf)
+
 ---
 
 # Κατασκευή
